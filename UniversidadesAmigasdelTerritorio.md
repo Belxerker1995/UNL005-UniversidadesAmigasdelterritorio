@@ -2,6 +2,7 @@
 aplicacion para generar integracion entre la comunidad y las universidades
 
 ## Nombre del Proyecto
+Learn Community
 
 # INTEGRANTES
 1. Jhoan Fabian Tapia
